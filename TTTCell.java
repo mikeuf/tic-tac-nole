@@ -1,13 +1,7 @@
 /*
-Black, Mike
-COP-3252
-Project 1
-3/1/2015 (overnight)
-
 TTTCell.java
 
 The buttons for the tic tac toe game
-
 */
 
 import javax.swing.*;
