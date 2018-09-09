@@ -1,13 +1,7 @@
 /*
-Black, Mike
-COP-3252
-Project 1
-3/1/2015 (overnight)
-
 TicTacToe.java
 
 The main GUI for the tic tac toe game
-
 */
 
 
